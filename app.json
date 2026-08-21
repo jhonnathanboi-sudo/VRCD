@@ -1,0 +1,11 @@
+{
+  "name": "VRCD",
+  "description": "A Multi-OS Sideloader for Android / Quest Devices",
+  "version": "1.0.0",
+  "category": "Utilities",
+  "icon": "https://private-user-images.githubusercontent.com/295128894/611836632-137fceda-def4-4311-a797-0b93eefc9844.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODczNDMzODIsIm5iZiI6MTc4NzM0MzA4MiwicGF0aCI6Ii8yOTUxMjg4OTQvNjExODM2NjMyLTEzN2ZjZWRhLWRlZjQtNDMxMS1hNzk3LTBiOTNlZWZjOTg0NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyMVQyMDExMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMGY3ZjYzY2YyNGIwYTE1NThmNmFlM2I3YTc5YWE5MzU4OTBlM2Y0MWI3YzYzZDNiYjhjMTkwYTNjOWJiMTgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.XPSk7p3pXiLTXZQK6zBNSh6dAByFiSOWFKjnay8Y_1M",
+  "author": "DelicousMeatPop",
+  "repository": "https://github.com/jhonnathanboi-sudo/VRCD",
+  "platform": "windows",
+  "installable": false
+}
